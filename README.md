@@ -1,4 +1,5 @@
 # Multi-Campus Network Design & Configuration Using Cisco Packet Tracer
+Designed and simulated an eight-campus network using Cisco Packet Tracer, implementing OSPF routing, IP subnetting, DHCP relay, DNS, web server configuration, and wired/wireless connectivity.
 
 ## Project Overview
 
